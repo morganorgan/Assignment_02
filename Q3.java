@@ -1,6 +1,6 @@
 //Morgan Bragg
 //9/21/26
-//Statement: The work is my own.
+//This work is my own.
 //reads retail items from a file, updates and prints.
 
 import java.io.*;
