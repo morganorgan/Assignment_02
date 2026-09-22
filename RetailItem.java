@@ -1,6 +1,6 @@
 //Morgan Bragg
 // 9/21/26
-//RetailItem
+//RetailItem code from uml
 //This is my workS
 
 // implement retail item
