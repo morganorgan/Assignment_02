@@ -1,6 +1,7 @@
 //Morgan Bragg
 // 9/21/26
-//Assn2
+//RetailItem
+//This is my workS
 
 // implement retail item
 public class RetailItem {
